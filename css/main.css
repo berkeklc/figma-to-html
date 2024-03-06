@@ -60,3 +60,23 @@ nav{margin-bottom:42px;margin-top:25px!important;}
   padding:0;
 }
 .nav-item:last-child{margin-right:0;}
+.mp0{
+  padding:0;
+}
+@media (max-width: 768px) {
+main{
+  padding:10px;
+}
+.btn{
+  margin-bottom:10px
+}
+.mp0{
+  padding:10px!important;
+}
+.cards {
+  margin-top: 25px;
+  border-bottom: 1px solid black;
+  padding-bottom: 40px;
+  margin-bottom: 20px;
+}
+}
